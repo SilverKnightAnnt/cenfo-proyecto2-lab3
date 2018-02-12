@@ -1,0 +1,6 @@
+c:\users\user\source\repos\Lab3_Granja_Cenfotec\Entidades\bin\Debug\Entidades.dll
+c:\users\user\source\repos\Lab3_Granja_Cenfotec\Entidades\bin\Debug\Entidades.pdb
+c:\users\user\source\repos\Lab3_Granja_Cenfotec\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\Lab3_Granja_Cenfotec\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\Lab3_Granja_Cenfotec\Entidades\obj\Debug\Entidades.dll
+c:\users\user\source\repos\Lab3_Granja_Cenfotec\Entidades\obj\Debug\Entidades.pdb

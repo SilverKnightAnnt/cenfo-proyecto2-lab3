@@ -1,0 +1,11 @@
+c:\users\user\source\repos\Lab3_Granja_Cenfotec\Lab3_Granja_Cenfotec\bin\Debug\Lab3_Granja_Cenfotec.exe.config
+c:\users\user\source\repos\Lab3_Granja_Cenfotec\Lab3_Granja_Cenfotec\bin\Debug\Lab3_Granja_Cenfotec.exe
+c:\users\user\source\repos\Lab3_Granja_Cenfotec\Lab3_Granja_Cenfotec\bin\Debug\Lab3_Granja_Cenfotec.pdb
+c:\users\user\source\repos\Lab3_Granja_Cenfotec\Lab3_Granja_Cenfotec\bin\Debug\AccesoDatos.dll
+c:\users\user\source\repos\Lab3_Granja_Cenfotec\Lab3_Granja_Cenfotec\bin\Debug\Entidades.dll
+c:\users\user\source\repos\Lab3_Granja_Cenfotec\Lab3_Granja_Cenfotec\bin\Debug\AccesoDatos.pdb
+c:\users\user\source\repos\Lab3_Granja_Cenfotec\Lab3_Granja_Cenfotec\bin\Debug\Entidades.pdb
+c:\users\user\source\repos\Lab3_Granja_Cenfotec\Lab3_Granja_Cenfotec\obj\Debug\Lab3_Granja_Cenfotec.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\Lab3_Granja_Cenfotec\Lab3_Granja_Cenfotec\obj\Debug\Lab3_Granja_Cenfotec.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\Lab3_Granja_Cenfotec\Lab3_Granja_Cenfotec\obj\Debug\Lab3_Granja_Cenfotec.exe
+c:\users\user\source\repos\Lab3_Granja_Cenfotec\Lab3_Granja_Cenfotec\obj\Debug\Lab3_Granja_Cenfotec.pdb
